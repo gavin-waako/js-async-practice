@@ -1,0 +1,24 @@
+{
+  "name": "js-async-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavin-waako/js-async-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gavin-waako/js-async-practice/issues"
+  },
+  "homepage": "https://github.com/gavin-waako/js-async-practice#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.2"
+  }
+}
