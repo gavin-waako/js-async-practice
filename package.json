@@ -20,5 +20,8 @@
   "homepage": "https://github.com/gavin-waako/js-async-practice#readme",
   "devDependencies": {
     "@types/node": "^25.2.2"
+  },
+  "dependencies": {
+    "undici-types": "^7.16.0"
   }
 }

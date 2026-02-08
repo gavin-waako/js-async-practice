@@ -9,7 +9,7 @@ yarn-error.log*
 bun.lockb
 node_modules/
 
-# Environment Variables (Sensitive data)
+# Environment Variables
 .env
 .env.local
 .env.development.local
@@ -20,6 +20,6 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-# Build/Dist folders (if you start compiling)
+# Build/Dist folders
 dist/
 build/

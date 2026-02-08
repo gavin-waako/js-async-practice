@@ -1,3 +1,3 @@
-Grains,4.57
-Carbs,7.34
-Tubers,9.28
+apple,4.57
+banana,7.34
+orange,9.28
